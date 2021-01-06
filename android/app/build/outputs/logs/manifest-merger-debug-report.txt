@@ -1,0 +1,428 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8a118297f2763ca33524914d92c1a7bd/jetified-flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/0bd9937e79a778771adf5053b614bf48/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/c44b74aebeb8f0a3a3e60cfa9995d910/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_masked-view] /Users/differenz94/Documents/Demo/Demo/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-25:12
+MERGED from [:react-native-gesture-handler] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-34:12
+MERGED from [:react-native-reanimated] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a8405ec5ea0fcaacbdd1e01422f597b0/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/75fc4169f67a6ca6bba8c5885a700120/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4f6aef9fe8d8a06da1f1abed3a54a39e/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8be5daf89b1b62cbe69e80a44854c525/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ed45f159d4863c019a316b9b584ad103/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/2ef79a3367ba5dcdc834bea553a10522/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4914a62af8626e39286dffd5176d6c67/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/eaffe1572e31b2c8cc8287931d8547a0/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/9fc9aa1440b42fe612449ab027f9205f/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/86f2d4f16bf6cc10167651e80e7239e6/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/17bdcd8f5166236937c386780e0cd3ac/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ba4a3ebb03bf9ad25e8a8e1fd5f29269/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/7e7cf0caf30a914004016d74beba2f51/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/b2159d9d126900068b801f293e9f7862/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/3ccfc60388e5095a17442568ea62ded3/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/28eefc712c94621632a17913e9d9f15b/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/c3d8f96deb7422b41a830cf9a5c78cef/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/38e6ee51c32bbbe72cee949d07af31e8/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a8bb2f93be0cd2fa2acf32588475a34a/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/66fbd2d8c79a152e00898641e880d8e4/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/22c8a2337a6b5bfbf2d27def49c60daf/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/f8a12816136886a5fefe3a17f991af85/jetified-play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1647e5973df34bdabda16b52188ab8e1/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/e10f6a05bfde01ae9610251b899d3eea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/18c5ea56cbe47e0c8d51e4c967bb3fb2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/433437281d6a2bc2b19e7ebb31195f45/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4e50317849a85c04864166971ce824cf/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/973b28796585c2515722f365d536372f/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/6edf4919759a8770b2e9962395e0713d/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/3247da1cd311e4536ea75bfeeeacc3ad/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4a16d28380cadc90c944b0c335c1c0c5/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4efbf1b3d09868f4b2623467a4512fcb/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1e75ed887f8d1f0829fa59ba9e6efd98/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/b8cf6458d6dd25a5428eadb454afcffe/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47011b43c01eaeb31f4ece58e8667d87/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1f5a9ad4c6f4e47f224c8fee27a04647/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/2b2e9784911acb7344ba428b8fb07e47/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/51470a290704dc8823306cab7e0b35ae/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/54265117ff41f4b7f2b3f272ea614d3a/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/eb69f1b40afbbe8864a98b22f61b34cf/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a43d575c9130f26deaf264d49f333f19/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ea7853b2f6058f0a0bc2f6b92186e7a5/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8226aff9514c46c358975f5079cf819d/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/fc41e9c6d0ef3c2ea47fe02aafb75be2/exifinterface-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/76cda6bc4e845a2216c3dd2f8b170c10/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/95732d310a980d00af0d08e91e3f82bb/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/3c18ac384ab1dd3f3cf7acb331b526ad/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/cfe160dd83062edafc2bfbc7133df393/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/b85a1166acc510c1d52e769f9d754b88/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/9ea4b88cfe17cf79db7dbda4c0d287cf/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/e3c71dafb4cd8dca5e77973738835708/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/85baf4c3cb21a8b26b1235cca3bc2de9/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/d77b4d6a120c47aa8ba1b04970cceec1/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ccd3631c531941fcebe9d39d61738540/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/d058ab7264d46a45966debad3f2f50ab/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ab866e71b4be2dda3319c586d39ddfd3/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47bbb85bb3c56693b69044dc00055844/jetified-installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a85dffc666c9d56816f88463f73525e4/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/7fde071bdbb28d9d69c0b0d67746ef5c/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8a118297f2763ca33524914d92c1a7bd/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8a118297f2763ca33524914d92c1a7bd/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/f8a12816136886a5fefe3a17f991af85/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/f8a12816136886a5fefe3a17f991af85/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-81
+MERGED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:9:5-28:19
+MERGED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-23:19
+MERGED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-23:19
+MERGED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-32:19
+MERGED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-32:19
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a8405ec5ea0fcaacbdd1e01422f597b0/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a8405ec5ea0fcaacbdd1e01422f597b0/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/38e6ee51c32bbbe72cee949d07af31e8/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/38e6ee51c32bbbe72cee949d07af31e8/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/66fbd2d8c79a152e00898641e880d8e4/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/66fbd2d8c79a152e00898641e880d8e4/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/f8a12816136886a5fefe3a17f991af85/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/f8a12816136886a5fefe3a17f991af85/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1647e5973df34bdabda16b52188ab8e1/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1647e5973df34bdabda16b52188ab8e1/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/e10f6a05bfde01ae9610251b899d3eea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/e10f6a05bfde01ae9610251b899d3eea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/18c5ea56cbe47e0c8d51e4c967bb3fb2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/18c5ea56cbe47e0c8d51e4c967bb3fb2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/433437281d6a2bc2b19e7ebb31195f45/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/433437281d6a2bc2b19e7ebb31195f45/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a43d575c9130f26deaf264d49f333f19/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a43d575c9130f26deaf264d49f333f19/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/76cda6bc4e845a2216c3dd2f8b170c10/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/76cda6bc4e845a2216c3dd2f8b170c10/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47bbb85bb3c56693b69044dc00055844/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47bbb85bb3c56693b69044dc00055844/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a43d575c9130f26deaf264d49f333f19/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:11:7-39
+	tools:ignore
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:13:7-52
+	tools:targetApi
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.demo.MainActivity
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:16:7-26:18
+	android:label
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:launchMode
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:20:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:21:9-48
+	android:configChanges
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:19:9-86
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8a118297f2763ca33524914d92c1a7bd/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8a118297f2763ca33524914d92c1a7bd/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/0bd9937e79a778771adf5053b614bf48/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/0bd9937e79a778771adf5053b614bf48/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/c44b74aebeb8f0a3a3e60cfa9995d910/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/c44b74aebeb8f0a3a3e60cfa9995d910/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_masked-view] /Users/differenz94/Documents/Demo/Demo/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/differenz94/Documents/Demo/Demo/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-gesture-handler] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-reanimated] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a8405ec5ea0fcaacbdd1e01422f597b0/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a8405ec5ea0fcaacbdd1e01422f597b0/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/75fc4169f67a6ca6bba8c5885a700120/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/75fc4169f67a6ca6bba8c5885a700120/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4f6aef9fe8d8a06da1f1abed3a54a39e/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4f6aef9fe8d8a06da1f1abed3a54a39e/jetified-android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8be5daf89b1b62cbe69e80a44854c525/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8be5daf89b1b62cbe69e80a44854c525/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ed45f159d4863c019a316b9b584ad103/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ed45f159d4863c019a316b9b584ad103/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/2ef79a3367ba5dcdc834bea553a10522/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/2ef79a3367ba5dcdc834bea553a10522/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4914a62af8626e39286dffd5176d6c67/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4914a62af8626e39286dffd5176d6c67/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/eaffe1572e31b2c8cc8287931d8547a0/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/eaffe1572e31b2c8cc8287931d8547a0/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/9fc9aa1440b42fe612449ab027f9205f/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/9fc9aa1440b42fe612449ab027f9205f/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/86f2d4f16bf6cc10167651e80e7239e6/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/86f2d4f16bf6cc10167651e80e7239e6/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/17bdcd8f5166236937c386780e0cd3ac/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/17bdcd8f5166236937c386780e0cd3ac/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ba4a3ebb03bf9ad25e8a8e1fd5f29269/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ba4a3ebb03bf9ad25e8a8e1fd5f29269/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/7e7cf0caf30a914004016d74beba2f51/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/7e7cf0caf30a914004016d74beba2f51/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/b2159d9d126900068b801f293e9f7862/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/b2159d9d126900068b801f293e9f7862/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/3ccfc60388e5095a17442568ea62ded3/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/3ccfc60388e5095a17442568ea62ded3/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/28eefc712c94621632a17913e9d9f15b/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/28eefc712c94621632a17913e9d9f15b/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/c3d8f96deb7422b41a830cf9a5c78cef/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/c3d8f96deb7422b41a830cf9a5c78cef/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/38e6ee51c32bbbe72cee949d07af31e8/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/38e6ee51c32bbbe72cee949d07af31e8/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a8bb2f93be0cd2fa2acf32588475a34a/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a8bb2f93be0cd2fa2acf32588475a34a/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/66fbd2d8c79a152e00898641e880d8e4/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/66fbd2d8c79a152e00898641e880d8e4/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/22c8a2337a6b5bfbf2d27def49c60daf/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/22c8a2337a6b5bfbf2d27def49c60daf/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/f8a12816136886a5fefe3a17f991af85/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/f8a12816136886a5fefe3a17f991af85/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1647e5973df34bdabda16b52188ab8e1/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1647e5973df34bdabda16b52188ab8e1/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/e10f6a05bfde01ae9610251b899d3eea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/e10f6a05bfde01ae9610251b899d3eea/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/18c5ea56cbe47e0c8d51e4c967bb3fb2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/18c5ea56cbe47e0c8d51e4c967bb3fb2/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/433437281d6a2bc2b19e7ebb31195f45/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/433437281d6a2bc2b19e7ebb31195f45/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4e50317849a85c04864166971ce824cf/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4e50317849a85c04864166971ce824cf/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/973b28796585c2515722f365d536372f/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/973b28796585c2515722f365d536372f/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/6edf4919759a8770b2e9962395e0713d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/6edf4919759a8770b2e9962395e0713d/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/3247da1cd311e4536ea75bfeeeacc3ad/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/3247da1cd311e4536ea75bfeeeacc3ad/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4a16d28380cadc90c944b0c335c1c0c5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4a16d28380cadc90c944b0c335c1c0c5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4efbf1b3d09868f4b2623467a4512fcb/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/4efbf1b3d09868f4b2623467a4512fcb/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1e75ed887f8d1f0829fa59ba9e6efd98/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1e75ed887f8d1f0829fa59ba9e6efd98/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/b8cf6458d6dd25a5428eadb454afcffe/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/b8cf6458d6dd25a5428eadb454afcffe/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47011b43c01eaeb31f4ece58e8667d87/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47011b43c01eaeb31f4ece58e8667d87/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1f5a9ad4c6f4e47f224c8fee27a04647/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1f5a9ad4c6f4e47f224c8fee27a04647/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/2b2e9784911acb7344ba428b8fb07e47/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/2b2e9784911acb7344ba428b8fb07e47/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/51470a290704dc8823306cab7e0b35ae/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/51470a290704dc8823306cab7e0b35ae/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/54265117ff41f4b7f2b3f272ea614d3a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/54265117ff41f4b7f2b3f272ea614d3a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/eb69f1b40afbbe8864a98b22f61b34cf/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/eb69f1b40afbbe8864a98b22f61b34cf/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a43d575c9130f26deaf264d49f333f19/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a43d575c9130f26deaf264d49f333f19/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ea7853b2f6058f0a0bc2f6b92186e7a5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ea7853b2f6058f0a0bc2f6b92186e7a5/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8226aff9514c46c358975f5079cf819d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8226aff9514c46c358975f5079cf819d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/fc41e9c6d0ef3c2ea47fe02aafb75be2/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0-beta01] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/fc41e9c6d0ef3c2ea47fe02aafb75be2/exifinterface-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/76cda6bc4e845a2216c3dd2f8b170c10/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/76cda6bc4e845a2216c3dd2f8b170c10/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/95732d310a980d00af0d08e91e3f82bb/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/95732d310a980d00af0d08e91e3f82bb/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/3c18ac384ab1dd3f3cf7acb331b526ad/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/3c18ac384ab1dd3f3cf7acb331b526ad/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/cfe160dd83062edafc2bfbc7133df393/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/cfe160dd83062edafc2bfbc7133df393/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/b85a1166acc510c1d52e769f9d754b88/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/b85a1166acc510c1d52e769f9d754b88/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/9ea4b88cfe17cf79db7dbda4c0d287cf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/9ea4b88cfe17cf79db7dbda4c0d287cf/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/e3c71dafb4cd8dca5e77973738835708/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/e3c71dafb4cd8dca5e77973738835708/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/85baf4c3cb21a8b26b1235cca3bc2de9/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/85baf4c3cb21a8b26b1235cca3bc2de9/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/d77b4d6a120c47aa8ba1b04970cceec1/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/d77b4d6a120c47aa8ba1b04970cceec1/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ccd3631c531941fcebe9d39d61738540/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ccd3631c531941fcebe9d39d61738540/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/d058ab7264d46a45966debad3f2f50ab/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/d058ab7264d46a45966debad3f2f50ab/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ab866e71b4be2dda3319c586d39ddfd3/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/ab866e71b4be2dda3319c586d39ddfd3/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47bbb85bb3c56693b69044dc00055844/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47bbb85bb3c56693b69044dc00055844/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a85dffc666c9d56816f88463f73525e4/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/a85dffc666c9d56816f88463f73525e4/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/7fde071bdbb28d9d69c0b0d67746ef5c/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/7fde071bdbb28d9d69c0b0d67746ef5c/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/differenz94/Documents/Demo/Demo/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8a118297f2763ca33524914d92c1a7bd/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/8a118297f2763ca33524914d92c1a7bd/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:9-22:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-44
+	android:permission
+		ADDED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-69
+	android:name
+		ADDED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-21:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-device-info/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:25-76
+queries
+ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-14:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:9-13:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:21-70
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-27:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:13-26:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-31:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/differenz94/Documents/Demo/Demo/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:30:13-60
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/f8a12816136886a5fefe3a17f991af85/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/f8a12816136886a5fefe3a17f991af85/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1647e5973df34bdabda16b52188ab8e1/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1647e5973df34bdabda16b52188ab8e1/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1647e5973df34bdabda16b52188ab8e1/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/1647e5973df34bdabda16b52188ab8e1/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/433437281d6a2bc2b19e7ebb31195f45/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/433437281d6a2bc2b19e7ebb31195f45/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/433437281d6a2bc2b19e7ebb31195f45/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47bbb85bb3c56693b69044dc00055844/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/differenz94/.gradle/caches/transforms-2/files-2.1/47bbb85bb3c56693b69044dc00055844/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107

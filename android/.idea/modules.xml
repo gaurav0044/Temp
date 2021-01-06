@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Demo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Demo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1680584490/Demo.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1680584490/Demo.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1380638272/Demo.react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/1380638272/Demo.react-native-device-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1112217793/Demo.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1112217793/Demo.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1309834548/Demo.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1309834548/Demo.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1662299973/Demo.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1662299973/Demo.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/45810922/Demo.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/45810922/Demo.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1620991614/Demo.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1620991614/Demo.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
